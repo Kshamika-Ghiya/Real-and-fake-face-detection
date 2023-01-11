@@ -1,1 +1,5 @@
 # Real-and-fake-face-detection
+
+Deep learning is becoming a very popular subset of machine learning due to its high-level performance across many types of data. A great way to use deep learning to classify images is to build a convolutional neural network (CNN). The Keras library in Python makes it simple to build a CNN.
+Fake faces are a problem in the real world today. It can be overcome by building a software program to detect fake and real faces in images. Face detection could also be a way of detecting faces from pictures, video footages, etc. There are various face detection algorithms, one of the most popular ones being the viola jones algorithm for object detection whose success rate is 78.4%.
+In this paper, we will be using Sequential model made using CNN model of Keras to predict real or fake face. The model will be trained using Keras helper functions without defining a separate testing and validation set. By the end, the application will be able to predict if an entered image is fake or real.
